@@ -6111,14 +6111,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21008': {
-    #    'id': 'SLUS21008',
-    #    'title': 'KATAMARY DAMACY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21008': {
+        'id': 'SLUS21008',
+        'title': 'KATAMARY DAMACY',
+        'icon0': 'https://images.launchbox-app.com/462f2aee-4243-4b0f-a35e-6082f324cb75.jpg',
+        'pic0': 'https://images.launchbox-app.com/f286438a-5c6f-41a8-a1a0-16dec96f1875.png',
+        'pic1': 'https://images.launchbox-app.com/f4163442-6b79-4e8f-9163-fbe97a3697fa.jpg',
+        'snd0': 'https://youtu.be/iMH49ieL4es?list=PLD35EB46AE98BA8ED',
+    },
     #'SLUS20334': {
     #    'id': 'SLUS20334',
     #    'title': 'KELLY SLATER'S PRO SURFER',
@@ -6175,14 +6175,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SCUS97402': {
-    #    'id': 'SCUS97402',
-    #    'title': 'KILLZONE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SCUS97402': {
+        'id': 'SCUS97402',
+        'title': 'KILLZONE',
+        'icon0': 'https://images.launchbox-app.com/e61ccc2c-d8d5-4181-9196-0a2348d44b5e.jpg',
+        'pic0': 'https://images.launchbox-app.com/d46f335e-7104-4c88-8856-6d48c17dc902.png',
+        'pic1': 'https://images.launchbox-app.com/8052c261-e44d-479f-a43b-8a856e869723.jpg',
+        'snd0': 'https://youtu.be/fgim4X3Pv5Q?list=PL56B189699691838A',
+    },
     #'SCUS97132': {
     #    'id': 'SCUS97132',
     #    'title': 'KINETICA',
@@ -6199,14 +6199,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20370': {
-    #    'id': 'SLUS20370',
-    #    'title': 'KINGDOM HEARTS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20370': {
+        'id': 'SLUS20370',
+        'title': 'KINGDOM HEARTS',
+        'icon0': 'https://images.launchbox-app.com/a981b583-c226-4d4e-9658-9981c97a4dc1.jpg',
+        'pic0': 'https://images.launchbox-app.com/9acc899b-748e-4575-ae71-0d4dfb45d42d.png',
+        'pic1': 'https://images.launchbox-app.com/e903f140-44cf-4621-9df4-d9ccaa8c8503.jpg',
+        'snd0': 'https://youtu.be/Bn54G7T_ijE?list=PLuUSFdBe9Vn39kfZDsg-gfiXOcOOnPce7',
+    },
     #'SLUS21799': {
     #    'id': 'SLUS21799',
     #    'title': 'KINGDOM HEARTS - RE:CHAIN OF MEMORIES',
@@ -7007,22 +7007,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20017': {
-    #    'id': 'SLUS20017',
-    #    'title': 'MAXIMO - GHOSTS TO GLORY',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS20722': {
-    #    'id': 'SLUS20722',
-    #    'title': 'MAXIMO VS ARMY OF ZIN',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20017': {
+        'id': 'SLUS20017',
+        'title': 'MAXIMO - GHOSTS TO GLORY',
+        'icon0': 'https://images.launchbox-app.com/fec8520b-8771-4af0-a848-8df5af6c1462.jpg',
+        'pic0': 'https://images.launchbox-app.com/d872717b-dccb-4aaf-a95d-c88349f0ec5d.png',
+        'pic1': 'https://images.launchbox-app.com/58130036-3f2e-4c8f-a0e8-ee13e0771fad.jpg',
+        'snd0': 'https://youtu.be/lrn8veLOWgY?list=PL42UhamOjcZkGpJ5GB4v8M5CSP9oqLVxs',
+    },
+    'SLUS20722': {
+        'id': 'SLUS20722',
+        'title': 'MAXIMO VS ARMY OF ZIN',
+        'icon0': 'https://images.launchbox-app.com/1e1b3359-36be-4a70-9495-371d3be57f09.jpg',
+        'pic0': 'https://images.launchbox-app.com/2eb8bdd7-1cb4-4a03-a572-92dd933917e3.png',
+        'pic1': 'https://images.launchbox-app.com/0993a3ae-3b60-4e02-9ebb-a6cfc4bd8f3b.jpg',
+        'snd0': 'https://youtu.be/LpmuGZVcDAk?list=PLopgwPZe36Ym6ORZSXgq5WMEbEIBD6Wyy',
+    },
     #'SLUS20657': {
     #    'id': 'SLUS20657',
     #    'title': 'MCFARLANE'S EVIL PROPHECY',
