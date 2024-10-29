@@ -3,3 +3,10 @@ atracdenc/
 make_npdata/
 ps2classic/
 python-env/
+*.pkg
+*.VMC
+__pycache__
+config
+gameid
+klic.bin
+pop-fe2-work/
