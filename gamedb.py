@@ -463,30 +463,30 @@ games = {
         'pic1': 'https://images.launchbox-app.com/d8bc7715-80f2-4981-8f3a-328cb35d6bf6.jpg',
         'snd0': 'https://www.youtube.com/watch?v=kbTZtCGVHas&list=PLdZj77TevUQ-HelFPLMk8CS2ba3sLuY6U&index=5',
     },
-    #'SLUS21165': {
-    #    'id': 'SLUS21165',
-    #    'title': 'Arc the Lad - End of Darkness',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SCUS97231': {
-    #    'id': 'SCUS97231',
-    #    'title': 'ARC THE LAD - TWILIGHT OF SPIRITS',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21720': {
-    #    'id': 'SLUS21720',
-    #    'title': 'ARCANA HEART',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21165': {
+        'id': 'SLUS21165',
+        'title': 'Arc the Lad - End of Darkness',
+        'icon0': 'https://images.launchbox-app.com/c6ae9c9f-aca0-4055-b74a-560a6b5004ac.jpg',
+        'pic0': 'https://images.launchbox-app.com/d03e3eb4-26ea-40dc-81e6-2da7287907d1.png',
+        'pic1': 'https://www.creativeuncut.com/social/arc-the-lad-end-of-darkness.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=LZVQw09jzF8&list=PLhPt7n-ALrSCkaMuXyYBc8m3PlyQ0nvKU&index=1',
+    },
+    'SCUS97231': {
+        'id': 'SCUS97231',
+        'title': 'ARC THE LAD - TWILIGHT OF SPIRITS',
+        'icon0': 'https://images.launchbox-app.com/0184991d-de3c-4634-bbd4-ab745d6de27c.jpg',
+        'pic0': 'https://images.launchbox-app.com/1cda8c87-c184-4f10-b97d-68187403929a.png',
+        'pic1': 'https://images.launchbox-app.com/8767c4f8-1b45-4aa1-8f39-75752dc2f56d.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=LZVQw09jzF8&list=PLF3B5766FB4E8CE29&index=1',
+    },
+    'SLUS21720': {
+        'id': 'SLUS21720',
+        'title': 'ARCANA HEART',
+        'icon0': 'https://images.launchbox-app.com/c084f30f-f1a4-45cf-85d2-611e0853dd25.jpg',
+        'pic0': 'https://images.launchbox-app.com/bf54e81c-e620-4b29-8b0f-57f62c0c0c45.png',
+        'pic1': 'https://images.launchbox-app.com/a23918cc-4648-445b-a014-ec27fc4ebe20.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=5y9m3cai268&list=PLFCND4El7mE4wQJtrWm_I9i3f-Y1pH3k2&index=1',
+    },
     #'SLUS20217': {
     #    'id': 'SLUS20217',
     #    'title': 'ARCTIC THUNDER',
@@ -1623,46 +1623,46 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20725': {
-    #    'id': 'SLUS20725',
-    #    'title': 'CALL OF DUTY - FINEST HOUR',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21746': {
-    #    'id': 'SLUS21746',
-    #    'title': 'Call of Duty - World at War - Final Fronts',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21228': {
-    #    'id': 'SLUS21228',
-    #    'title': 'CALL OF DUTY 2 - BIG RED ONE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21318': {
-    #    'id': 'SLUS21318',
-    #    'title': 'CALL OF DUTY 2 - BIG RED ONE',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21426': {
-    #    'id': 'SLUS21426',
-    #    'title': 'CALL OF DUTY 3',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20725': {
+        'id': 'SLUS20725',
+        'title': 'CALL OF DUTY - FINEST HOUR',
+        'icon0': 'https://images.launchbox-app.com/d8561ba5-bd9d-4ce5-8922-be502aae1bf2.jpg',
+        'pic0': 'https://images.launchbox-app.com/af2850da-cf89-4c06-8b90-53014ebcfd77.png',
+        'pic1': 'https://images.launchbox-app.com/9f0970e9-1f40-4bde-bb69-8e42a4b1c2e4.png',
+        'snd0': 'https://www.youtube.com/watch?v=TxqImKW98qE&list=PLm4Rqr5BVZfR9H732HDZyTEfRStONA7_U&index=2',
+    },
+    'SLUS21746': {
+        'id': 'SLUS21746',
+        'title': 'Call of Duty - World at War - Final Fronts',
+        'icon0': 'https://images.launchbox-app.com/b87c449d-9c50-46b3-9814-0243fbb28c86.jpg',
+        'pic0': 'https://images.launchbox-app.com/14bc6d53-faa5-40cd-9ba2-0f93b436b32f.png',
+        'pic1': 'https://images.launchbox-app.com/a4f01d63-077f-407b-9996-55c742feb1cf.png',
+        'snd0': 'https://www.youtube.com/watch?v=7chJ6HQQmYM&list=PLl-vhnGPY7coXIPKefPan4jRofZlt-jIB&index=1',
+    },
+    'SLUS21228': {
+        'id': 'SLUS21228',
+        'title': 'CALL OF DUTY 2 - BIG RED ONE',
+        'icon0': 'https://images.launchbox-app.com/8424495c-816a-4635-8eb1-9e6f50b4002b.jpg',
+        'pic0': 'https://images.launchbox-app.com/6e909a2d-a169-40f1-8e9d-266fbeb39cc0.png',
+        'pic1': 'https://images.launchbox-app.com/f781d0d4-4d13-45d1-9b30-e6f3cd924559.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=yOvqDX4Zpt8&list=PLNsKtTiwb8JFrPkG6L3MU3qnU6yzhGg5p&index=1',
+    },
+    'SLUS21318': {
+        'id': 'SLUS21318',
+        'title': 'CALL OF DUTY 2 - BIG RED ONE',
+        'icon0': 'https://images.launchbox-app.com/8424495c-816a-4635-8eb1-9e6f50b4002b.jpg',
+        'pic0': 'https://images.launchbox-app.com/6e909a2d-a169-40f1-8e9d-266fbeb39cc0.png',
+        'pic1': 'https://images.launchbox-app.com/f781d0d4-4d13-45d1-9b30-e6f3cd924559.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=yOvqDX4Zpt8&list=PLNsKtTiwb8JFrPkG6L3MU3qnU6yzhGg5p&index=1',
+    },
+    'SLUS21426': {
+        'id': 'SLUS21426',
+        'title': 'CALL OF DUTY 3',
+        'icon0': 'https://images.launchbox-app.com/356b041c-8fdc-439f-a8a1-3a64e3b7b339.jpg',
+        'pic0': 'https://images.launchbox-app.com/81d0c109-7af0-40f7-8c64-5fb44e780852.png',
+        'pic1': 'https://images.launchbox-app.com/2bd5e160-cc36-45ec-9ce5-983f8249e1af.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=88bMlnfq17s&list=PLVFu5mCs8PVjx3HgtV1nq9L5YCyEm-Y-A&index=1',
+    },
     #'SLUS21316': {
     #    'id': 'SLUS21316',
     #    'title': 'Capcom Classics Collection Vol.1',
@@ -3255,22 +3255,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS21271': {
-    #    'id': 'SLUS21271',
-    #    'title': 'Driver - Parallel Lines',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21399': {
-    #    'id': 'SLUS21399',
-    #    'title': 'Driver - Parallel Lines (Limited Edition)',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS21271': {
+        'id': 'SLUS21271',
+        'title': 'Driver - Parallel Lines',
+        'icon0': 'https://images.launchbox-app.com/a0fe636c-a256-492e-abd4-834f900e8cbd.jpg',
+        'pic0': 'https://images.launchbox-app.com/47decda5-0100-4770-8d4b-b4e47d929560.png',
+        'pic1': 'https://images.launchbox-app.com/ebf8d877-57c1-4f50-8f4b-1ac44f32a161.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=CVZKzpxHrSg&list=PL2B8880CC2EFA5D58&index=1',
+    },
+    'SLUS21399': {
+        'id': 'SLUS21399',
+        'title': 'Driver - Parallel Lines (Limited Edition)',
+        'icon0': 'https://images.launchbox-app.com/a0fe636c-a256-492e-abd4-834f900e8cbd.jpg',
+        'pic0': 'https://images.launchbox-app.com/47decda5-0100-4770-8d4b-b4e47d929560.png',
+        'pic1': 'https://images.launchbox-app.com/ebf8d877-57c1-4f50-8f4b-1ac44f32a161.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=CVZKzpxHrSg&list=PL2B8880CC2EFA5D58&index=1',
+    },
     #'SLUS20587': {
     #    'id': 'SLUS20587',
     #    'title': 'Driver 3',
@@ -4575,14 +4575,14 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20888': {
-    #    'id': 'SLUS20888',
-    #    'title': 'FRONT MISSION 4',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20888': {
+        'id': 'SLUS20888',
+        'title': 'FRONT MISSION 4',
+        'icon0': 'https://images.launchbox-app.com/eb65dc4b-5f67-4301-a478-bbdca15d7b3e.jpg',
+        'pic0': 'https://images.launchbox-app.com/64f50dc3-f972-499b-80b9-2ebc20a9457e.png',
+        'pic1': 'https://images.launchbox-app.com/1cb28458-8000-4eff-8785-c3fb3e7cb36a.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=m4hemzlB6DY&list=PLuuldF8FtBTT90i_nlDSOwvFgVqRxvW11&index=1',
+    },
     #'SLUS20464': {
     #    'id': 'SLUS20464',
     #    'title': 'Fugitive Hunter - War on Terror',
@@ -4607,22 +4607,22 @@ games = {
     #    'pic1': 
     #    'snd0': 
     #},
-    #'SLUS20994': {
-    #    'id': 'SLUS20994',
-    #    'title': 'FULLMETAL ALCHEMIST AND THE BROKEN ANGEL',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
-    #'SLUS21166': {
-    #    'id': 'SLUS21166',
-    #    'title': 'FULLMETAL ALCHEMIST 2 - CURSE OF THE CRIMSON ELIXIR',
-    #    'icon0': 
-    #    'pic0': 
-    #    'pic1': 
-    #    'snd0': 
-    #},
+    'SLUS20994': {
+        'id': 'SLUS20994',
+        'title': 'FULLMETAL ALCHEMIST AND THE BROKEN ANGEL',
+        'icon0': 'https://images.launchbox-app.com/d6d4c74a-1eb2-4bad-82a9-e4636cb4872c.jpg',
+        'pic0': 'https://images.launchbox-app.com/5d7c9e94-9a69-4b52-9fd3-01c6122805c8.png',
+        'pic1': 'https://images.launchbox-app.com/dcf6c2a2-8b0d-44f8-a8ec-8c2e688b0cd7.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=MzfzQgKoZFs&list=PL2LI9Q2_aQ2IYEYZ4jiVEHkR0GE8rA2zs&index=1',
+    },
+    'SLUS21166': {
+        'id': 'SLUS21166',
+        'title': 'FULLMETAL ALCHEMIST 2 - CURSE OF THE CRIMSON ELIXIR',
+        'icon0': 'https://images.launchbox-app.com/029a2faa-9f3f-4258-8660-11c953c60d6d.jpg',
+        'pic0': 'https://images.launchbox-app.com/02d003da-0e61-4654-97bd-dc9872b72096.png',
+        'pic1': 'https://images.launchbox-app.com/d1f11583-9d82-46b8-83cc-d3eb2c745439.jpg',
+        'snd0': 'https://www.youtube.com/watch?v=InAqMnmwMmM&list=PLnZc6WBQn4V87ibQbGA7CS9DGQuGzkiv0&index=2',
+    },
     #'SLUS20088': {
     #    'id': 'SLUS20088',
     #    'title': 'FUR FIGHTERS - VIGGO'S REVENGE',
@@ -5874,10 +5874,10 @@ games = {
     #'SCUS97558': {
     #    'id': 'SCUS97558',
     #    'title': 'Jak and Daxter - The Lost Frontier',
-    #    'icon0': 'https://images.launchbox-app.com/5085da7b-1b28-498f-974b-1874085cb7cc.jpg',
-    #    'pic0': 'https://images.launchbox-app.com/8c4a52e5-2cab-4d18-8562-1202c275ee10.png',
-    #    'pic1': '',
-    #    'snd0': 'https://youtu.be/T_VdzQe0J5w?list=PLl6W9BHSoDW5ncww4YO6kNJBn6qIDxqZ6',
+    #    'icon0': 
+    #    'pic0': 
+    #    'pic1': 
+    #    'snd0': 
     #},
     'SCUS97124': {
         'id': 'SCUS97124',
@@ -13397,7 +13397,7 @@ games = {
         'icon0': 'https://images.launchbox-app.com/1be69cf0-8276-4fe1-9af3-4c582f830c85.jpg',
         'pic0': 'https://images.launchbox-app.com/f13465dc-1bc1-4096-a795-8e4ebda8af59.png',
         'pic1': 'https://images.launchbox-app.com/6f24f207-61e6-41c7-bc28-e4c5ba9045f1.png',
-        'snd0': 'https://youtu.be/MoQ1qC4qafg?list=PL8B1A1FD08297B642',
+        'snd0': 'https://www.youtube.com/watch?v=MoQ1qC4qafg&list=PL8B1A1FD08297B642&index=1',
     },
     'SLUS20314': {
         'id': 'SLUS20314',
